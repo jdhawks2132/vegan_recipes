@@ -21,7 +21,7 @@ function App() {
 				<NavBar />
 				<ThemeSelector />
 				<Switch>
-					<Route exact path='/'>
+					<Route path='/vegan_recipes'>
 						<Home />
 					</Route>
 					<Route path='/create'>
