@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vegan_recipes/static/css/main.46d7c6c4.chunk.css",
+    "main.js": "/vegan_recipes/static/js/main.ddc41bd2.chunk.js",
+    "main.js.map": "/vegan_recipes/static/js/main.ddc41bd2.chunk.js.map",
+    "runtime-main.js": "/vegan_recipes/static/js/runtime-main.8922de3c.js",
+    "runtime-main.js.map": "/vegan_recipes/static/js/runtime-main.8922de3c.js.map",
+    "static/js/2.c3650f6c.chunk.js": "/vegan_recipes/static/js/2.c3650f6c.chunk.js",
+    "static/js/2.c3650f6c.chunk.js.map": "/vegan_recipes/static/js/2.c3650f6c.chunk.js.map",
+    "index.html": "/vegan_recipes/index.html",
+    "static/css/main.46d7c6c4.chunk.css.map": "/vegan_recipes/static/css/main.46d7c6c4.chunk.css.map",
+    "static/js/2.c3650f6c.chunk.js.LICENSE.txt": "/vegan_recipes/static/js/2.c3650f6c.chunk.js.LICENSE.txt",
+    "static/media/mode-icon.651cf792.svg": "/vegan_recipes/static/media/mode-icon.651cf792.svg",
+    "static/media/trashcan.f9d8018b.svg": "/vegan_recipes/static/media/trashcan.f9d8018b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8922de3c.js",
+    "static/js/2.c3650f6c.chunk.js",
+    "static/css/main.46d7c6c4.chunk.css",
+    "static/js/main.ddc41bd2.chunk.js"
+  ]
+}
