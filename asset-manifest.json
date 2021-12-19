@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/vegan_recipes/static/css/main.49edd00b.chunk.css",
-    "main.js": "/vegan_recipes/static/js/main.d14ee23d.chunk.js",
-    "main.js.map": "/vegan_recipes/static/js/main.d14ee23d.chunk.js.map",
+    "main.js": "/vegan_recipes/static/js/main.2c844439.chunk.js",
+    "main.js.map": "/vegan_recipes/static/js/main.2c844439.chunk.js.map",
     "runtime-main.js": "/vegan_recipes/static/js/runtime-main.8922de3c.js",
     "runtime-main.js.map": "/vegan_recipes/static/js/runtime-main.8922de3c.js.map",
     "static/js/2.00d63447.chunk.js": "/vegan_recipes/static/js/2.00d63447.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8922de3c.js",
     "static/js/2.00d63447.chunk.js",
     "static/css/main.49edd00b.chunk.css",
-    "static/js/main.d14ee23d.chunk.js"
+    "static/js/main.2c844439.chunk.js"
   ]
 }
