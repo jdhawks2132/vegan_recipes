@@ -9,8 +9,7 @@
 
 I built this application to learn how to integrate a Firebase backend. Firebase is a NoSQL database created by Google. Other options include hosting, authentication but in this project I wanted to keep the scope focused on database usage.
 
-## Development Team
-- [Joshua Hawks](http://www.linkedin.com/in/joshuahawks1)
+![recipe_list](https://github.com/jdhawks2132/vegan_recipes/blob/main/recipe%20list.png)
 
 ## Project Planning
 
